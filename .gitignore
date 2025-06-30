@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyo
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Node / Vite
+node_modules/
+dist/
+.build/
+.vite/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*.local
+
+# VSCode
+.vscode/
+
+# Test output
+coverage/
+*.cover
+*.pyc
+*.pyd
+*.pdb
+.cache/ 
